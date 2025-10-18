@@ -8,22 +8,22 @@
 <img width="1319" height="465" alt="image" src="https://github.com/user-attachments/assets/c44afae0-b699-4a25-b9b0-725d0ca3d215" />
 <img width="1298" height="450" alt="image" src="https://github.com/user-attachments/assets/884928bc-d5a9-468f-8aba-f606af136837" />
 
-# UI 흐름도
+## 💻 UI 흐름도
 <img width="1342" height="598" alt="image" src="https://github.com/user-attachments/assets/a166591a-f14d-4030-856b-be736cb99166" />
 
-# 💻 주요 기능
+## ⭐ 주요 기능
 <img width="1697" height="762" alt="image" src="https://github.com/user-attachments/assets/ccec5492-1f4e-4e41-97f9-7226277e45fa" />
 <img width="1321" height="363" alt="image" src="https://github.com/user-attachments/assets/7e912ba4-6dd3-4fc4-a603-c3b7abedf5a3" />
 
-# 시스템 구성도
+## 🔧 시스템 구성도
 <img width="1353" height="599" alt="image" src="https://github.com/user-attachments/assets/2205dee4-3396-4f7c-8789-944bfd7aeab2" />
 
 
-# 0️⃣ 진행 방식
+## 0️⃣ 진행 방식
 - 커밋메시지 작성에 신경을 씁시다!
 - 매일 저녁 5:30에 PR 후 Merge!(추후 변동 가능)
 
-# 1️⃣ commit message 규칙
+## 1️⃣ commit message 규칙
 
 - Feat:     새로운 기능 추가
 - Fix:      버그 수정
@@ -43,9 +43,7 @@
 git commit -m "Feat: 유저 검색 기능 추가"
 ```
 
-# 2️⃣ PR 규칙
-## PR 제목
+## 2️⃣ PR 규칙
+### PR 제목
 - 날짜-이름
 - `0922-홍길동`
-## comment 양식
-- 자유 양식
